@@ -97,6 +97,7 @@ namespace StartSelenium
         {
             // Close the driver
             //driver.Quit(); // Ensure the driver is properly closed
+            Console.WriteLine("Added line to be printed ");
         }
     }
 }

@@ -49,6 +49,7 @@ namespace StartSelenium
             TestContext.Progress.WriteLine( driver.Title); // This will print the title of the page
             TestContext.Progress.WriteLine(driver.Url);  // This will url for the site
             TestContext.Progress.WriteLine(driver.PageSource); // This will get the html of the page
+            
         }
 
         [TearDown]
