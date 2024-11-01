@@ -1477,9 +1477,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\SeleniumSonardyne\\StartSelenium\\StartSelenium.csproj",
-      "projectName": "StartSelenium",
-      "projectPath": "C:\\Users\\User\\source\\repos\\SeleniumSonardyne\\StartSelenium\\StartSelenium.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\SeleniumSonardyne\\StartSelenium\\SauceDemo.csproj",
+      "projectName": "SauceDemo",
+      "projectPath": "C:\\Users\\User\\source\\repos\\SeleniumSonardyne\\StartSelenium\\SauceDemo.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\source\\repos\\SeleniumSonardyne\\StartSelenium\\obj\\",
       "projectStyle": "PackageReference",
