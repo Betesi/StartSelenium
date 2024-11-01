@@ -154,7 +154,7 @@ namespace SauceDemo
         public void TearDown()
         {
             
-            driver.Quit(); // Ensure the driver is properly closed
+            driver.Close();
             
         }
     }
